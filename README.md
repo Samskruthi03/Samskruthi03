@@ -24,7 +24,7 @@ I'm a full-stack software engineer with **3 years of enterprise experience** bui
 
 At TCS I worked on a **major banking platform modernisation** migrating legacy monolithic systems to a distributed microservices architecture, building Kafka-based payment processing pipelines, and delivering end-to-end features across the full stack in a globally distributed Agile team.
 
-I'recently graduated from **MSc in Computing at Dublin City University** with modules in AI, Machine Learning, and Cloud Technologies that deepened my skills in the areas Irish tech companies need most right now.
+I recently graduated from **MSc in Computing at Dublin City University** with modules in AI, Machine Learning, and Cloud Technologies that deepened my skills in the areas Irish tech companies need most right now.
 
 I'm based in Dublin and actively looking for my next role in **fintech, enterprise software, or cloud-native engineering**.
 
