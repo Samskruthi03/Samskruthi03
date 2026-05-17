@@ -142,14 +142,13 @@ Tata Consultancy Services (Oct 2021 – Aug 2024)  ·  Software Engineer
 ## Currently
 
 - 🔨 Building **smart-expense-tracker** — a production-grade fintech app using my full stack
-- 📚 Completing MSc at DCU — AI and cloud modules
 - 👀 **Actively looking** for Software Engineer roles in Dublin (fintech, enterprise, cloud-native)
 - 📬 Open to conversations — reach me on [LinkedIn](https://www.linkedin.com/in/joshisamskruthii/)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Available_from-September_2025-0F6E56?style=for-the-badge" alt="Available from September 2025"/>
+  <img src="https://img.shields.io/badge/Available_from-September_2025-0F6E56?style=for-the-badge" alt="Available to start immediately"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Based_in-Dublin,_Ireland-003399?style=for-the-badge" alt="Based in Dublin"/>
 </p>
