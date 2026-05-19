@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Samskruthi Joshi 👋</h1>
+<h1 align="center">Samskruthi Joshi</h1>
 
 <p align="center">
   <strong>Software Engineer · Java · Spring Boot · Kafka · React · AWS</strong><br/>
