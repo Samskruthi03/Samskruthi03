@@ -99,15 +99,6 @@ I'm based in Dublin and actively looking for my next role in **fintech, enterpri
 
 ---
 
-### React Expense Dashboard
-> Frontend application for tracking and categorising personal expenses — component-based architecture with React hooks
-
-`React` `JavaScript` `CSS`
-
-[View repo →](https://github.com/Samskruthi03/react-expense-dashboard)
-
----
-
 ## Experience highlights
 
 ```
