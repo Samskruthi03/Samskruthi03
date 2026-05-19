@@ -72,9 +72,10 @@ I'm based in Dublin and actively looking for my next role in **fintech, enterpri
 
 ## Featured projects
 
-### Speech Emotion Recognition 
+### Smart Expense Tracker 
 > A personal finance platform built to demonstrate enterprise-grade architecture patterns used in real banking systems. Features event-driven transaction processing via Kafka, a REST API backend with Spring Boot microservices, and a React/TypeScript dashboard with spending analytics.
-[View repo →]((https://github.com/Samskruthi03/smart-expense-tracker))
+
+[View repo →](https://github.com/Samskruthi03/smart-expense-tracker)
 ---
 
 ### Speech Emotion Recognition
