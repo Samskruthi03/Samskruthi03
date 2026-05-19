@@ -73,8 +73,8 @@ I'm based in Dublin and actively looking for my next role in **fintech, enterpri
 ## Featured projects
 
 ### Smart Expense Tracker 
-> A personal finance platform built to demonstrate enterprise-grade architecture patterns used in real banking systems. Features event-driven transaction processing via 
->
+> A personal finance platform built to demonstrate enterprise-grade architecture patterns used in real banking systems.
+> 
 > `Kafka` `REST API` `Spring Boot microservices` `React/TypeScript`
 >
 > [View repo →](https://github.com/Samskruthi03/smart-expense-tracker)
