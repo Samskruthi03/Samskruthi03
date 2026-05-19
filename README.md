@@ -1,7 +1,7 @@
 <h1 align="center">Samskruthi Joshi</h1>
 
 <p align="center">
-  <strong>Software Engineer |Java | React | Spring Boot | Kafka | AWS</strong><br/>
+  <strong>Software Engineer | Java | React | Spring Boot | Kafka | AWS</strong><br/>
   Building scalable, event-driven systems for the fintech and banking domain<br/>
   Dublin, Ireland &nbsp;|&nbsp; MSc Computing, Dublin City University (Aug 2025) &nbsp;|&nbsp; Open to Software Engineer roles in Ireland
 </p>
