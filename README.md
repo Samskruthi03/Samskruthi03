@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Software Engineer · Java · Spring Boot · Kafka · React · AWS</strong><br/>
   Building scalable, event-driven systems for the fintech and banking domain<br/>
-  📍 Dublin, Ireland &nbsp;|&nbsp; 🎓 MSc Computing, Dublin City University (Aug 2025) &nbsp;|&nbsp; 🔍 Open to Software Engineer roles in Ireland
+  Dublin, Ireland &nbsp;|&nbsp; MSc Computing, Dublin City University (Aug 2025) &nbsp;|&nbsp; Open to Software Engineer roles in Ireland
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 ## About me
 
-I'm a full-stack software engineer with **3 years of enterprise experience** building banking and payment systems at Tata Consultancy Services — working with Java Spring Boot microservices, Kafka event streaming, and React at scale.
+I'm a full-stack software engineer with **3 years of enterprise experience** building banking and payment systems at Tata Consultancy Services working with Java Spring Boot microservices, Kafka event streaming, and React at scale.
 
-At TCS I worked on a **major banking platform modernisation** migrating legacy monolithic systems to a distributed microservices architecture, building Kafka-based payment processing pipelines, and delivering end-to-end features across the full stack in a globally distributed Agile team.
+At TCS, I worked on a **major banking platform modernisation** migrating legacy monolithic systems to a distributed microservices architecture, building Kafka-based payment processing pipelines, and delivering end-to-end features across the full stack in a globally distributed Agile team.
 
 I recently graduated from **MSc in Computing at Dublin City University** with modules in AI, Machine Learning, and Cloud Technologies that deepened my skills in the areas Irish tech companies need most right now.
 
@@ -72,13 +72,9 @@ I'm based in Dublin and actively looking for my next role in **fintech, enterpri
 
 ## Featured projects
 
-### Smart Expense Tracker *(in development)*
-> Full-stack fintech application — Spring Boot microservices · Kafka event streaming · React/TypeScript · PostgreSQL · Docker · AWS
-
-A personal finance platform built to demonstrate enterprise-grade architecture patterns used in real banking systems. Features event-driven transaction processing via Kafka, a REST API backend with Spring Boot microservices, and a React/TypeScript dashboard with spending analytics.
-
-`Java` `Spring Boot` `Kafka` `React` `TypeScript` `PostgreSQL` `Docker` `GitHub Actions` `AWS`
-
+### Speech Emotion Recognition 
+> A personal finance platform built to demonstrate enterprise-grade architecture patterns used in real banking systems. Features event-driven transaction processing via Kafka, a REST API backend with Spring Boot microservices, and a React/TypeScript dashboard with spending analytics.
+[View repo →]((https://github.com/Samskruthi03/smart-expense-tracker))
 ---
 
 ### Speech Emotion Recognition
