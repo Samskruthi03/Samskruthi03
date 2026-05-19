@@ -20,7 +20,7 @@
 
 ## About me
 
-I'm a full-stack software engineer with **3 years of enterprise experience** building banking and payment systems at Tata Consultancy Services working with Java Spring Boot microservices, Kafka event streaming, and React at scale.
+I'm a full-stack software engineer with **3 years of enterprise experience** building banking and payment systems at Tata Consultancy Services working with React, Java, Spring Boot microservices, Kafka event streaming at scale.
 
 At TCS, I worked on a **major banking platform modernisation** migrating legacy monolithic systems to a distributed microservices architecture, building Kafka-based payment processing pipelines, and delivering end-to-end features across the full stack in a globally distributed Agile team.
 
@@ -110,31 +110,31 @@ Tata Consultancy Services (Oct 2021 – Aug 2024)  ·  Software Engineer
 ✦  10+ customer-facing features delivered across full stack in Agile sprints
 ✦  CI/CD with GitHub Actions + TeamCity — deployment cycles: hours → minutes
 ✦  Mentored 3 junior engineers — reduced onboarding time by 20%
-✦  Multiple "On the Spot" awards for technical excellence & delivery
+✦  Multiple "On-the-Spot" awards for technical excellence & delivery
 ```
 
 ---
 
 ## Education & certifications
 
-🎓 &nbsp;**MSc Computing** — Dublin City University *(graduating August 2025)*
+&nbsp;**MSc Computing** — Dublin City University
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Modules: AI, Machine Learning, Cloud Technologies, SQL*
 
-🎓 &nbsp;**BE Computer Science** — Global Academy of Technology, Bengaluru
+&nbsp;**BE Computer Science** — Global Academy of Technology, Bengaluru
 
-☁️ &nbsp;**AWS Certified Cloud Practitioner**
+&nbsp;**AWS Certified Cloud Practitioner**
 
-☕ &nbsp;**Building Scalable Java Microservices with Spring Boot and Spring Cloud** — Edureka
+&nbsp;**Building Scalable Java Microservices with Spring Boot and Spring Cloud** — Edureka
 
-🌐 &nbsp;**HTML, CSS & JavaScript for Web Developers** — Johns Hopkins University
+&nbsp;**HTML, CSS & JavaScript for Web Developers** — Johns Hopkins University
 
 ---
 
 ## Currently
 
-- 🔨 Building **smart-expense-tracker** — a production-grade fintech app using my full stack
-- 👀 **Actively looking** for Software Engineer roles in Dublin (fintech, enterprise, cloud-native)
-- 📬 Open to conversations — reach me on [LinkedIn](https://www.linkedin.com/in/joshisamskruthii/)
+- Building **smart-expense-tracker** — a production-grade fintech app using my full stack
+- **Actively looking** for Software Engineer roles in Ireland (fintech, enterprise, cloud-native)
+- Open to conversations — reach me on [LinkedIn](https://www.linkedin.com/in/joshisamskruthii/)
 
 ---
 
